@@ -1,2 +1,2 @@
-# Mutli-collinear-Problem
+# Multicollinear-Problem
 Dealing with multicollinearity
